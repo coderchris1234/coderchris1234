@@ -2,7 +2,7 @@ Frontend-focused software developer with a strong foundation in **React.js**, bu
 
 Currently building **mystorelink**, a platform designed to simplify how people sell online through a single, powerful link. Passionate about creating impactful digital products, continuously learning, and collaborating on ideas that push technology forward.
 
-You can connect with me on X: @dificity012.
+You can connect with me on X: @deficity012.
 
 <!---
 coderchris1234/coderchris1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
